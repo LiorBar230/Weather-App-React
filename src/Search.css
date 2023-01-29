@@ -1,0 +1,15 @@
+.SearchBody {
+  text-align: center;
+  margin: 0 auto;
+}
+.Wrapper {
+  text-align: left;
+  border: 2px solid #eeeeee;
+  border-radius: 10px;
+  max-width: 600px;
+}
+.list {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
